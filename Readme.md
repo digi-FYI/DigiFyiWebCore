@@ -1,6 +1,6 @@
 # digi-FYI Web Core
 
-This code form the basis for digi-FYI to implement our web core. 
+This code forms the basis for digi-FYI to implement our web core code in our products. 
 
 Nothing in the code reveals any proprietory information or business rules about our clients.
 
